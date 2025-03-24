@@ -12,7 +12,7 @@ while True:
     floatgpa = float(gpa)
     if(floatgpa > 3.5):
         print(f"{fname} {lname} has made the Dean's List")  
-    elif(gpa > 3.25):
+    elif(floatgpa > 3.25):
         print(f"{fname} {lname} has made the Honor Roll")
     else:
         print(f"{fname} {lname} did not make the Dean's List or Honor Roll")
