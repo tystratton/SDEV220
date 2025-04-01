@@ -1,7 +1,7 @@
 #Ty Stratton
-#3/24/25
-# Case Study Module 2, Dean's List
-# This app asks for a user's name and GPA and determines what list they fit on (Dean's or Honors)
+#4/1/2025
+# Sort 0s, 1s, and 2s
+# Given an array, sort the array in ascending order
 
 while True:
     lname = input("What is your last name (enter ZZZ to quit): ")
